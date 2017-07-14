@@ -1,8 +1,11 @@
 # Challenge_Fraud
-Challenge from coursera data science community - Fraud
+Challenge from coursera data science community - Catch the Fraudster
 
 Hello guys!! I am a beginner in data science and just have reach getting and cleaning data lesson.
 I try to solve this puzzle because it says on beginner level... and I able to submit this because the help of the forum discussion tip and google.
+The data for this challenge can be download on:
+
+    https://docs.google.com/spreadsheets/d/1TufF3QBHK8RsC06V0arvF3PwN3gfz5kg5eV6BjRxEjc/edit#gid=581816440
 
 # My Approaching of solve the challenge
 The tips that I get form the forum discussion is about using linear model reggression with first 4 predictor, so we can use:
