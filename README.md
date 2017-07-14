@@ -49,4 +49,5 @@ We can see that it will become fraud if ONLY one of the these predictor is claim
 The process for deciding only use four predictor, how to determined it I still do not know exactly.
 My only guess is, when I tried to include all of the predictor into linear model formula (lm) the coefficient for the rest of them is in around e-15 till e-18 order. So I guess we can cancel them out and use only the first four predictor.
 
+#### CMIIW
 ### Thats All From Me, Thank You
