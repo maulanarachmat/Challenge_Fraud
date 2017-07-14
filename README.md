@@ -43,4 +43,7 @@ From that we can see that we got R-square 1 and the coefficient for fraud intanc
 We can see that it will become fraud if ONLY one of the these predictor is claimed
 
 ### The things I miss
-1. The process for deciding only use four predictor, how to determined it I still do not know, I'm sorry
+The process for deciding only use four predictor, how to determined it I still do not know exactly.
+My only guess is, when I tried to include all of the predictor into linear model formula (lm) the coefficient for the rest of them is in around e-15 till e-18 order. So I guess we can cancel them out and use only the first four predictor.
+
+### Thats All From Me, Thank You
